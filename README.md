@@ -44,6 +44,9 @@ This React Native application allows users to view a catalog of 5,000 products, 
 2. After starting the app, scan the QR code displayed in your terminal or browser using Expo Go (Android) or the Camera app (iOS).
 3. Alternatively, you can access the app directly by entering the following URL in your mobile browser: [http://localhost:8081](http://localhost:8081).
 
+## Demo
+![QRCODE](https://res.cloudinary.com/dtzavoakh/image/upload/v1730112442/qmmwvjoemrliqejzjgnc.png)
+LIVE PREVIEW
 
 ## Project Structure
 - **components/**: Contains modular UI components (e.g., ProductItems, ProductModel).
